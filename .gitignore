@@ -1,3 +1,12 @@
+# Mine
+/data/
+/djangoapi/static/
+/djangoapi/media/
+/djangoapi/project/local_settings.py
+__localcode
+gunicorn-error-log
+
+
 # Django #
 *.log
 *.pot
